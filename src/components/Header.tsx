@@ -151,8 +151,8 @@ export default function Header() {
           {/* Desktop Login Button */}
           <div className="hidden md:flex items-center">
             <a 
-              href="https://www.futeurcredx.com/login" 
-              target="_blank" 
+              href="https://sandbox.futeurcredx.com/sign-in"
+              target="_blank"
               rel="noopener noreferrer"
               className={`text-sm font-medium transition-all duration-200 px-4 py-2 rounded-full border ${
                 isScrolled 

@@ -547,8 +547,8 @@ export default function Docs() {
                   How It Works
                 </Link>
                 <a 
-                  href="https://www.futeurcredx.com/login" 
-                  target="_blank" 
+                  href="https://sandbox.futeurcredx.com/sign-in"
+                  target="_blank"
                   rel="noopener noreferrer"
                   className={`${darkMode ? 'text-gray-400 hover:text-white' : 'text-gray-600 hover:text-gray-900'} transition-colors`}
                 >
